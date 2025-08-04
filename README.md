@@ -1,5 +1,4 @@
-# privacy_policy_frozenpets
-        Политика конфиденциальности Frozen pets
+# Политика конфиденциальности frozen pets 
 1. Настоящая политика конфиденциальности распространяется на мобильное приложение
 «Frozen pets» (далее – Сервис), и регулирует отношения, возникающие между
 пользователями по поводу предоставления, хранения, использования и иной обработки
@@ -119,69 +118,42 @@ cookies) и веб-маяки, а также собирается с испол�
 Новая редакция Политики конфиденциальности применяется к отношениям, возникшим
 после ее опубликования.
 
-Frozen Pets - Privacy Policy
-Data Collection
+# Frozen Pets - Privacy Policy
+**Data Collection**
 Frozen Pets mobile application collects and processes the following user data:
-
-Phone number
-
-Email address
-
-Date of birth (month/day/year)
-
-Age and gender
-
-Facial images (photo/video)
-
-Device technical information (IP address, OS type, browser version, etc.)
-
-Mobile device identifiers (UDID, advertising ID)
-
-Geolocation data (when applicable)
-
-Usage analytics (visited pages, session duration, clickstream data)
-
-Purpose of Data Processing
+        - Phone number
+        - Email address
+        - Date of birth (month/day/year)
+        - Age and gender
+        - Facial images (photo/video)
+        - Device technical information (IP address, OS type, browser version, etc.)
+        - Mobile device identifiers (UDID, advertising ID)
+        - Geolocation data (when applicable)
+        - Usage analytics (visited pages, session duration, clickstream data)
+**Purpose of Data Processing**
 Collected data is used for:
-
-User identification and authentication
-
-Service communication and notifications
-
-Quality improvement and UX optimization
-
-Technical support provision
-
-Statistical research and analytics
-
-Data Protection
+        - User identification and authentication
+        - Service communication and notifications
+        - Quality improvement and UX optimization
+        - Technical support provision
+        - Statistical research and analytics
+**Data Protection**
 We implement organizational and technical measures to protect user data, including:
-
-Appointing a data protection officer
-
-Regular security audits
-
-Staff training on data protection
-
-Limited data retention periods
-
-User Rights
+        - Appointing a data protection officer
+        - Regular security audits
+        - Staff training on data protection
+        - Limited data retention periods
+**User Rights**
 Users have the right to:
-
-Access their personal data
-
-Request data correction
-
-Demand data deletion
-
-Withdraw processing consent
-
-Receive processing information
-
-Third Parties
+        - Access their personal data
+        - Request data correction
+        - Demand data deletion
+        - Withdraw processing consent
+        - Receive processing information
+**Third Parties**
 Data may be shared with third-party services only for the purposes stated in this policy. We don't transfer data to countries without adequate data protection laws.
 
-Policy Updates
+**Policy Updates**
 We may update this policy without individual notifications. Changes become effective immediately upon publication.
 
 For questions or data requests, please contact: [Your Contact Email]
